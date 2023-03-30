@@ -1,0 +1,19 @@
+/* Color properties responsible for the color text  */
+/* color background responsible for the background color */
+
+/* when we use images we use the emmet (the shortcut) background instead of background-color ie
+#two{
+ color: blue;
+ background:blueviolet ;
+}
+*/
+
+#first{
+ color: aqua;
+ background-color: bisque;
+}
+
+#two{
+ color: blue;
+ background:blueviolet ;
+}
