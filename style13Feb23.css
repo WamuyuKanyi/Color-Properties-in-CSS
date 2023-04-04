@@ -57,5 +57,36 @@ body{
 body{
  background: rgba(220, 20, 100, 0.33);
 }
+/* END */
+
+/* 
+HSL-(research)
+HEX VALUES #RRGGBB
+Hex values represents not just numbers but letters from A to F where A(10) B(11) C(12) D(13) E(14) and F(15) 
+for example you would want to write red it would go as follows
+#FF0000-RED, this is because FF represents the hightest values of the rgb ,255 , so thats why we start with FF.
+
+Hex values the maximum is 15.
+The values are 6 characters, more than that will give a syntax error
+coolors.com- for more colors
+
+#00FF00- GREEN
+*/
+
+
+#first{
+ color: #ff0000;
+ background: #000 ;
+}
+
+#two{
+ color:rgb(20,123,200);
+ background: #00FF00
+}
+
+#three{
+ color: #0000FF;
+ background: #F15025
+}
 
 
